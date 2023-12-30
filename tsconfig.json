@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "libID3js",
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "strict": true,
+        "outDir": "Build/"
+        
+
+    },
+
+    "include": ["src/**/*"] 
+}
