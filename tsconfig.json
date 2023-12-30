@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "module": "libID3js",
+        "module": "None",
         "noImplicitAny": true,
         "strictNullChecks": true,
         "strict": true,

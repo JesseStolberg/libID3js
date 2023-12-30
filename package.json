@@ -20,6 +20,7 @@
   "author": "Jesse Stolberg",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^20.10.6",
     "typescript": "^5.3.3"
   }
 }
