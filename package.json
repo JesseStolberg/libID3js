@@ -1,0 +1,22 @@
+{
+  "name": "libid3js",
+  "version": "0.1.0",
+  "description": "ID3v2 tag manipulation for all formats",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/JesseStolberg/libID3js"
+  },
+  "keywords": [
+    "ID3",
+    "ID3v2"
+  ],
+  "author": "Jesse Stolberg",
+  "license": "ISC"
+}
