@@ -18,5 +18,8 @@
     "ID3v2"
   ],
   "author": "Jesse Stolberg",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
 }
